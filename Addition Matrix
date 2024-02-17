@@ -16,7 +16,7 @@ for(j=0;j<2;j++)
 a[i][j]=sc.nextInt();
 }
 }
-System.out.println("enter the 2st matrix");
+System.out.println("enter the 2nd matrix");
 for(i=0;i<2;i++)
 {
 for(j=0;j<2;j++)
