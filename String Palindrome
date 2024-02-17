@@ -3,7 +3,7 @@ class S1
 {
    public static void main(String args[])
    {
-    String str="pavani";
+    String str="lekhya";
 String rev="";
 char ch;
 int n=str.length();
