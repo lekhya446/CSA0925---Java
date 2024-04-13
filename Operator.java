@@ -3,7 +3,7 @@ class Operator
 {
 public static void main(String arg[])
 {
-int a=15,b=5;
+int a=15,b=20;
 if(a>3 && b<10)
 {
 System.out.println("true"); 
@@ -26,7 +26,7 @@ System.out.println("false");
 }
 else
 {
-System.out.println("true"); 
+System.out.println("true") 
 }
 }
 }
