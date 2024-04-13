@@ -1,9 +1,10 @@
 class Circle
 {
-public static void main(String arg[])
+public static void main(String args[])
 {
-double r=2,pi=3.14,area;
-area=pi*r*r;
-System.out.println("area of Circle is:"+area);
+double r,area;
+r=2;
+area=3.14*r*r;
+System.out.print("Area of circle is:" +area);
 }
 }
